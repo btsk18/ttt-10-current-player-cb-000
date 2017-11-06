@@ -5,4 +5,5 @@ def turn_count(board)
       couter ++
     end
   }
+  return counter
 end
